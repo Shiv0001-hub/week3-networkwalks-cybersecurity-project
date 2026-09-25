@@ -216,7 +216,6 @@ The Networkwalks Password Cracker demonstrated the web-based password-auditing w
 # Report
 
 - [Download the Week 3 Project Report](report/Shiv-Das-Week3-Project-Report.docx)
-- [Read the Markdown Report](report/Shiv-Das-Week3-Project-Report.md)
 
 # Disclaimer
 
