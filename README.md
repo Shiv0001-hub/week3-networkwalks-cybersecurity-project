@@ -194,25 +194,6 @@ The Networkwalks Password Cracker demonstrated the web-based password-auditing w
 4. Keep password-auditing evidence private unless publication is authorized.
 5. Test only instructor-provided or explicitly authorized targets.
 
-# Repository Structure
-
-```text
-.
-├── README.md
-├── LICENSE
-├── evidence/
-│   └── screenshots/
-│       ├── README.md
-│       ├── PM1-John-the-Ripper/
-│       │   ├── pm1-john-show-redacted.png
-│       │   └── pm1-pdf-opened-redacted.png
-│       └── PM2-Networkwalks/
-│           └── pm2-networkwalks-success-redacted.png
-└── report/
-    ├── Shiv-Das-Week3-Project-Report.docx
-    └── Shiv-Das-Week3-Project-Report.md
-```
-
 # Report
 
 - [Download the Week 3 Project Report](report/Shiv-Das-Week3-Project-Report.docx)
